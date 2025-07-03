@@ -1,1 +1,2 @@
 # Task7
+This project focuses on binary classification using Support Vector Machines (SVM) on the Breast Cancer dataset. It demonstrates the use of both linear and RBF kernels for classification, along with hyperparameter tuning using GridSearchCV. The model's performance is evaluated through classification reports and cross-validation scores. Additionally, PCA is applied to reduce feature dimensions and visualize the decision boundary in 2D. This task highlights the strengths of SVM in handling both linearly and non-linearly separable data.
